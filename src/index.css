@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {font-family: "Almarai", sans-serif;}
+.slider-color-1 {color: #915970;}
+.slider-background1 {background: linear-gradient(173.68deg, #ffedf5 0%, #ffd5e7 100%);}
+.slider-background2 {background: linear-gradient(174.76deg, #d3deff 0%, #a8baff 100%);}
+.slider-background3 {background: linear-gradient(176.69deg, #f8f0d5 0%, #efdcab 100%);}
+.slider-background4 {background: linear-gradient(175.24deg, #b2e8f0 0%, #7bccdc 100%);}
+.discount-backcolor {background: radial-gradient(circle, #767676 0%, #4d4f50 100%, #494c4d 100%);}
+.multiSelectContainer {text-align: start !important;}
+.image-gallery-slide .image-gallery-image {width:250px !important; height: 300px !important; margin-left: 80px !important;}
